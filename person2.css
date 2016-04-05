@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+.box1{width:100%;
+     height:auto;
+	position:relative;
+	margin-top:5%;
+	}
+.img1{position:absolute;
+      left:40%;
+	  width:18%;
+      height:auto;	
+	 }
+.name{position:absolute; 
+	  left:42%;
+	  margin-top:20%;
+	  font-size:1.5em;}
+.show{position:absolute;
+      width:50px;
+	  text-align:center; 
+      margin-top:28%;
+	  left:42%;
+	  border:1px solid #ba3360; 
+	  background-color:#ba3360;
+	  color:#fff;
+	  padding:1px 8px;
+	  border-radius:10px;}
+.mainbody{width:80%;
+          height:auto;
+          margin-top:47%;
+		  position:relative;
+		  left:20%;}
+.mainbody ul{list-style:none;
+             font-family:"华文细黑";
+			 color:#212425; 
+			 font-size:.75em; 						
+			}
+.mainbody ul a{color:#212425;
+               text-decoration:none;}
+.m1{width:7%;
+    height:auto; 
+	position:absolute;	
+	top:0;
+	left:10px;
+	  }
+.m2{
+	width:20%;
+    position:absolute;
+    top:40px;
+    left:0px;
+		 }
+
+ .m3{width:7%;
+    height:auto; 
+	position:absolute; 
+	left:32%;
+	top:0px;
+	  }
+.m4{
+    width: 20%;	
+	position:absolute;
+    top:40px ;
+	left:30%;}
+.m5{width:7%;
+   height:auto; 
+   position:absolute; 
+   left:60%;
+   top:0;
+	  }	  	  
+.m6{
+	width:20%;	
+	position:absolute;		 	
+	top:40px;
+    left:57%;}
+.m7{width:7%;
+    height:auto; 
+	position:absolute;
+	left:10px;	
+	top:80px;
+	  }
+.m8{
+	 width: 20%;		
+	position:absolute;
+	top:120px;
+    left:0;}
+.m9{width: 7%;
+	height: auto;
+    position:absolute;		 
+	top:80px ;
+	left:32%;
+	  }
+.m10{
+	width: 20%;	
+	position:absolute;		 	
+	top:120px;
+	left:30%;}
+.m11{width:7%;
+     height:auto; 
+	 position:absolute; 
+	 left:60%;
+	  top:80px;
+	  }	  	  
+.m12{
+	width: 20%;		 	
+    position:absolute;		
+    top:120px ;
+	left:57%;}
+.footer{width:100%;
+        height:130px;
+        background:#212425;		
+		color:#ffffff;
+		font-family:"华文细黑";
+		font-size:0.5em;
+		text-align:center;
+		position:relative;
+		margin-top:20px;
+		clear:both;
+		}
+.footer ul{list-style:none;}		  
+.footer ul li.adress{padding-top:25px;}		  		  
+.footer ul li.call{margin-top:10px;}		  
+.footer ul li.name{margin-top:10px;left: 38%;}
+.footer ul li.num{margin-top:40px;}	
+.clearfix:after{ content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.clearfix{ display:inline-block;}
+*html .clearfix{ height:1%;}
+.clearfix{ display:block;}
+
+
+
+	 

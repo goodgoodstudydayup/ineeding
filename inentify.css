@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0; padding:0;font-family:"华文细黑"; font-size:1em; color::#242125;}
+.mainbody{position:relative;
+      width:100%;
+      height:300px;}
+.line{height:2px;
+      width:100%;
+	  background-color:#242125;
+	  margin-top:30px;
+	}
+.title{
+	width: 22%;
+	height: 50px;
+	background-color: #fff;
+	text-align: center;
+	position: absolute;
+	left: 39%;
+	top:-15px;
+	font-size:1.25em
+}
+.title2{text-align: center;
+	position: absolute;
+	left: 42%;
+	top:5px;}	
+.num{position:absolute;
+     left:26%;
+	 top:10%; }
+.pho{position:absolute;
+     left:26%;
+	 top:18%;
+	 height:35px;
+	 width:50%; }
+.pass{position:absolute;
+     left:26%;
+	 top:32%; }
+.password{position:absolute;
+     left:26%;
+	 top:40%;
+	 height:35px;
+	 width:50%;  }
+.yan{position:absolute;
+     left:26%;
+	 top:54%; }
+.school{position:absolute;
+     left:26%;
+	 top:61%;
+	 height:35px;
+	 width:50%; }
+.title3{position:absolute;
+        top:80%;
+		left:38%;
+	}
+.userimg{position:absolute;
+        top:90%;
+		left:35%;
+		width:35%;
+		height:25%;
+		background:#000;
+	}
+.xiangc{position:absolute;
+        top:120%;
+		left:10%;
+	}
+.liulan{position:absolute;
+        top:120%;
+		left:20%;}
+.queren{position:absolute;
+     left:40%;
+	 top:130%; 
+	 height:28px;
+	 width:25%;
+	 border:none;
+	 background-color:#ba3360;
+	 color:#fff;
+	}	   
+.camera{position:absolute;
+        top:120%;
+		left:70%;
+	}	   
+	      

@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0; padding:0; font-family:"华文细黑"; font-size:1em;  text-decoration:none;}
+   
+.titl1{
+       position:absolute;
+	   top:20px;
+	   left:38%;}	 
+	
+.line{height:1px;
+      width:100%;
+	  background-color:#999;
+	  position:absolute;
+	  top:60px;}
+.titl2{position:absolute;
+       left:4%;
+	   top:85px;	  
+	   }  
+
+.phone{ position:absolute;
+        left:4%;
+		top:115px;
+		height:40px;
+		width:90%;
+		border:1px solid #242125;
+		}
+.titl3{position:absolute;
+       left:4%;
+	   top:175px;}
+.password{position:absolute;
+          left:4%;
+		  top:205px;
+		  height:40px;
+		  width:90%;
+		  border:1px solid #242125;}
+
+.button{
+        margin-top:275px;
+		margin-left:5%;		
+		width:35%;
+		background-color:#ba3360;
+		border:none;
+		height:30px;
+		font-size:0.8em;
+		color:#fff;
+		}	
+.forget{position:absolute;
+       top:345px;
+	   left:20%;
+	   font-size:0.75em;}
+.signup{position:absolute;
+       top:345px;
+	   left:48%;
+	   font-size:0.75em;}
+.up a{color:#ba3360;}

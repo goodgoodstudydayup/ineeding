@@ -1,0 +1,183 @@
+@charset "utf-8";
+
+.main{
+	text-align: center;
+	margin-top: 60px;
+}
+.main_1{
+	margin-left:16%;
+	width:70%;
+	height: 300px; 
+	background-color:#f0f0f0;	
+}
+
+.span{
+	margin-left: 40px;
+	text-align: center;
+
+}
+.miaoshutupian{
+	position: absolute;
+	left: 21%;
+	height: 200px;
+	width: 70%;
+	vertical-align:text-top;
+	border:1px solid #000;
+}
+.miaoshu{
+	margin-left: 7%;
+	margin-top: 20px;
+	height: 200px;
+	vertical-align:text-top;
+}
+.wupinleixing,	
+.chulifangshi,
+.jiage,
+.dianhua,
+.qq{
+	margin-left: 7%;
+	margin-top: 60px;	
+}
+
+.wupinleixing{position:relative;width:59%;}
+.f{position:absolute;
+   left:0;
+   top:0;}
+
+.leixing{position:absolute;
+   left:0;
+   top:20px;
+  
+}
+.pay1{position:absolute;
+      left:24%;
+	  width:46%;
+     height:25px;
+	}
+.pay{width:174%;
+     height:35px;}
+
+
+
+.biaoti{
+	margin-left: 7%;
+	margin-top: 20px;
+}
+.jiagekuang{
+	position: absolute;
+	left: 21%;
+	height:25px;
+	width: 46%;
+
+}
+.dianhuakuang{
+	position: absolute;
+	left: 21%;
+	height:25px;
+	width: 46%;
+
+}
+.qqkuang{
+	position: absolute;
+	left: 21%;
+	height:25px;
+	width: 46%;
+}
+.chuzu{
+	position: absolute;
+	
+	left: 23%;
+}
+.b2{ text-align:center;}
+.botton{
+	text-align:center;
+	margin-top:15%;
+	margin-bottom:50px;
+	border:1px solid #ba3360;
+	background-color:#ba3360;
+	color:#fff;
+	width:19%;
+	
+
+}
+.line{height:1px;
+     width:70%;
+	 background-color:#000;
+	margin-left: 16%;
+	margin-right: 16%;
+	margin-bottom: 20px;
+	margin-top: 30px;
+}
+.text{
+	position: absolute;
+	width: 70%;
+	left:21%;
+	border-bottom: 1px solid #000 ;
+	border-right: none;
+	border-top: none;
+	border-left:none;
+
+}
+.dingbu{
+
+}
+.img{
+	margin-left: 50px;
+	margin-top: 50px;
+
+}
+.botton1{
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+
+}
+.botton1 a{
+	color: black;
+	text-decoration: none;
+}
+.img a{
+	color: black;
+	text-decoration: none;
+}
+.span a{
+	color: black;
+	text-decoration: none;
+}
+.bottom{position:relative;
+        top:80px;}
+
+
+.chulifangshi{
+	position:relative;
+	width:59%;
+}
+.c{
+   position:absolute;
+   left:0;
+   top:0;
+}
+
+.fangshi{
+   position:absolute;
+   left:0;
+   top:20px; 
+}
+.pay2{
+	margin-left: 24%;
+	padding-top: 10px;
+}
+
+
+
+
+  
+}
+
+
+
+
+
+
+
+

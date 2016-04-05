@@ -1,0 +1,54 @@
+body{font-family: "华文细黑";
+color: #212425;
+font-size: 1em;}
+a{text-decoration:none ;
+color: #212425;
+font-size: 1em;}
+.main{height:600px ;
+	  posion:relative;}
+.main ul{list-style: none;}
+.menu{width:5%; 
+      height:auto;
+      position:absolute; 
+	  left:7%;
+	  top:4%;
+	  }
+.p3 {
+    position:absolute;
+    width: 20%;
+    top:11%;
+    height: auto;
+    left: 44%;
+    
+}
+.h1{
+			position:absolute;
+			height: auto;
+		 	left:45%;
+		 	width:10%;
+		 	top:25%;
+		 	
+		 }
+.p7{position:absolute;
+		 width:15%;
+		border:1px solid #ba3461;
+		border-radius:10px;
+		background-color:#BA3461;
+		color:#FFFFFF;
+		text-align: center;
+		height: auto;
+		 left:48%;
+		 top:30%;}
+.content{
+	position:relative;
+	padding-top:70%;
+	width:90%;
+	margin-left:6%;
+	clear:both;
+}
+.x2{
+		position:relative;
+		left:80%;
+	
+}
+

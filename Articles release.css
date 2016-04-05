@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+*{ margin:0; padding:0; font-family:"华文细黑"; font-size:1em;  text-decoration:none;}
+   
+.main{
+	height: 50%;
+	width: 80%;
+	margin-top: 16%;
+	margin-bottom: 47%;
+	margin-left:auto;
+	margin-right:auto;	
+	text-align: center;
+	background-color: #ffffff;	
+}
+.hr{
+	height: 1px;
+	width: 100%;
+	background-color: #000000;
+}
+.main_4{
+	padding-top:20px; 
+}
+
+
+.main_1{
+	margin-top: 10px;
+
+}
+.main_5{
+	margin-top: 10px;
+	height: 70px;
+	background-color:#f2f2f2;
+}
+.h3{
+   padding-top: 10px;
+}
+.h4{
+	margin-top: 10px;
+}
+.main_6{
+	margin-top: 10px;
+	height: 70px;
+	background-color:#f2f2f2;
+}
+.main_1 a,
+.main_2 a,
+.main_3 a{
+	text-decoration: none;
+}
+.h1{
+	margin-top: 5px;
+	font-size: 25px;
+}
+.main_3{
+	font-size: 25px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}

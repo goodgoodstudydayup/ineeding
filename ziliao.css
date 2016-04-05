@@ -1,0 +1,87 @@
+﻿body{font-family: "华文细黑";
+color: #212425;
+font-size: 1em;}
+a{text-decoration:none ;
+color: #212425;
+font-size: 1em;}
+.main{height:600px ;
+	  posion:relative;}
+.main ul{list-style: none;}
+.menu{width:5%; 
+      height:auto;
+      position:absolute; 
+	  left:7%;
+	  top:4%;
+	  }
+.p3 {
+    position:absolute;
+    width: 20%;
+    top:11%;
+    height: auto;
+    left: 44%;
+    
+}
+.h1{
+			position:absolute;
+			height: auto;
+		 	left:45%;
+		 	width:10%;
+		 	top:25%;
+		 	
+		 }
+.p7{position:absolute;
+		 width:15%;
+		border:1px solid #ba3461;
+		border-radius:10px;
+		background-color:#BA3461;
+		color:#FFFFFF;
+		text-align: center;
+		height: auto;
+		 left:48%;
+		 top:30%;}
+.t1{      width: 20%;
+		  position:absolute;
+		  top:40% ;
+		 left:10%;
+		 }
+.t2{      width: 20%;
+		  position:absolute;
+		  top:40% ;
+		 left:28%;
+		 }
+	.t3{      width: 20%;
+		  position:absolute;
+		  top:50% ;
+		 left:10%;
+		 }
+.t4{      width: 20%;
+		  position:absolute;
+		  top:50% ;
+		 left:28%;
+		 }	 
+	 .t5{      width: 20%;
+		  position:absolute;
+		  top:60% ;
+		 left:10%;
+		 }
+.t6{      width: 20%;
+		  position:absolute;
+		  top:60% ;
+		 left:28%;
+		 }	  
+.t7{  width: 20%;
+		  position:absolute;
+		  top:70% ;
+		 left:10%;
+		 }
+.t8{      width: 70%;
+		  position:absolute;
+		  top:70% ;
+		 left:28%;
+		 }	 
+ .t9{  width: 30%;
+		  position:absolute;
+		  top:80% ;
+		 left:10%;
+		 color:#FF3366;}
+
